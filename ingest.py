@@ -9,7 +9,7 @@ docs = loader.load()
 print(len(docs), "documents chargés")
 
 splitter = RecursiveCharacterTextSplitter(chunk_size=400, chunk_overlap=60)
-chunks = splitter.split_documents(docs)
+chunks = splitter.split_documents(docs) 
 print(len(chunks), "chunks créés")
 print("Exemple :", chunks[0].page_content[:120], "|", chunks[0].metadata)
 
