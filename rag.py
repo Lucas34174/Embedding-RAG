@@ -5,7 +5,7 @@ from langchain_core.output_parsers import StrOutputParser
  
 emb = OllamaEmbeddings(model="nomic-embed-text")
 vs = Chroma(persist_directory="db", embedding_function=emb)
-retriever = vs.as_retriever(search_kwargs={"k": 1})
+retriever = vs.as_retriever(search_kwargs={"k": 10})
 llm = ChatOllama(model="qwen2.5:7b-instruct-q4_K_M", temperature=0)
  
 prompt = ChatPromptTemplate.from_template("""Mpanampy HR an'ny Zenith Tech ianao.
