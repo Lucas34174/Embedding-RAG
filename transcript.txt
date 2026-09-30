@@ -1,0 +1,16 @@
+Vous > Combien de jours de congés payés ai-je par an ?
+Bot  > Chaque salarié bénéficie de 60 jours de congés payés par an.
+       [ data/conges.txt, data/support.txt ]
+
+Vous > Quel jour dois-je être au bureau ?
+Bot  > Vous devez être au bureau du lundi au vendredi de 8h à 18h.
+       [ data/conges.txt, data/support.txt ]
+
+Vous > Comment joindre le support ?
+Bot  > Joignez le support informatique de Zenith Tech au poste 4200 ou par email à support@zenith.example, du lundi au vendredi de 8h à 18h.
+       [ data/conges.txt, data/support.txt, data/teletravail.txt ]
+
+Vous > Qui a gagné la Coupe du monde 2018 ?
+Bot  > Je ne sais pas d'après les documents.
+       [ data/conges.txt, data/support.txt ]
+
