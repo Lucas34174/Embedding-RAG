@@ -12,7 +12,7 @@ prompt = ChatPromptTemplate.from_template("""Tu es l'assistant RH de Zenith Tech
 Réponds uniquement à partir du contexte ci-dessous, en français, de façon concise.
 Si la réponse n'est pas dans le contexte, réponds : "Je ne sais pas d'après les documents."
 
-Contexte :
+Contexte:
 {context}
  
 Question : {question}
