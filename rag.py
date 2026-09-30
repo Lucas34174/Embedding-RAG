@@ -8,9 +8,9 @@ vs = Chroma(persist_directory="db", embedding_function=emb)
 retriever = vs.as_retriever(search_kwargs={"k": 1})
 llm = ChatOllama(model="qwen2.5:7b-instruct-q4_K_M", temperature=0)
  
-prompt = ChatPromptTemplate.from_template("""Tu es l'assistant RH de Zenith Tech.
-Réponds uniquement à partir du contexte ci-dessous, en français, de façon concise.
-Si la réponse n'est pas dans le contexte, réponds : "Je ne sais pas d'après les documents."
+prompt = ChatPromptTemplate.from_template("""Mpanampy HR an'ny Zenith Tech ianao.
+Valio raha tsy amin'ny teny manodidina, amin'ny teny malagasy, fohifohy.
+Raha tsy ao anatin'ny contexte ny valiny dia valio hoe: “Tsy voavaliko tsy nianarako tamin'ny antontan-taratasy ireo."
 
 Contexte:
 {context}

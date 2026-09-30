@@ -9,7 +9,7 @@ retriever = vs.as_retriever(search_kwargs={"k": 1})
 llm = ChatOllama(model="qwen2.5:7b-instruct-q4_K_M", temperature=0)
  
 prompt = ChatPromptTemplate.from_template("""Tu es l'assistant RH de Zenith Tech.
-Réponds uniquement à partir du contexte ci-dessous, en français, de façon concise.
+Réponds uniquement à partir du contexte ci-dessous, en malagasy, de façon concise.
 Si la réponse n'est pas dans le contexte, réponds : "Je ne sais pas d'après les documents."
 
 Contexte:
