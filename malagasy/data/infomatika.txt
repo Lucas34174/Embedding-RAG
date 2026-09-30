@@ -1,0 +1,41 @@
+# Informatika sy teknolojia
+
+Ny informatika dia sehatra mifandray amin’ny fanodinana sy fitantanana vaovao amin’ny alalan’ny solosaina sy rafitra informatika. Ny solosaina dia afaka mandray angona, manodina izany araka ny toromarika, ary mamoaka vokatra. Ny angona raisin’ny solosaina dia antsoina hoe input, raha ny vokatra avoakany kosa dia output.
+
+Ny hardware dia manondro ireo singa ara-batana amin’ny solosaina. Anisan’izany ny processeur, RAM, kapila fitahirizana, carte mère ary carte graphique. Ny processeur, izay antsoina koa hoe CPU, dia manatanteraka ny toromarika omen’ny programa. Ny RAM kosa dia fitadidiana ampiasain’ny solosaina mandritra ny fanatanterahana programa.
+
+Ny stockage dia ampiasaina hitahirizana angona mandritra ny fotoana maharitra. Ny HDD sy SSD dia ohatra amin’ny fitaovana fitahirizana. Amin’ny ankapobeny, ny SSD dia mampiasa mémoire flash ary tsy manana singa mihetsika toy ny HDD. Izany no mahatonga ny SSD ho haingana kokoa amin’ny asa maro.
+
+Ny logiciel na software dia fitambarana programa sy toromarika ampiasain’ny solosaina. Ny système d’exploitation dia karazana logiciel manokana mitantana ny hardware sy manome tontolo ahafahan’ny programa hafa miasa. Windows, Linux ary macOS dia ohatra amin’ny rafitra fiasana ampiasaina amin’ny solosaina.
+
+Ny Linux dia rafitra fiasana malalaka sy open source. Midika izany fa azo jerena sy ovaina araka ny fepetra omen’ny fahazoan-dalana open source ny kaody loharanony. Misy distributions Linux maro, toy ny Ubuntu, Debian, Fedora ary Arch Linux. Samy manana ny filozofia sy ny fomba fitantanana azy ireo distribution ireo.
+
+Ny programmation dia dingana fanoratana toromarika azon’ny solosaina tanterahina. Ny fiteny programmation dia manome fomba fanoratana ireo toromarika ireo. Python, Java, JavaScript, C ary C++ dia ohatra amin’ny fiteny programmation malaza.
+
+Ao amin’ny programmation dia zava-dehibe ny variable. Ny variable dia toerana iray ahafahana mitahiry sanda izay azo ampiasaina mandritra ny fanatanterahana programa. Ohatra, afaka mitahiry anarana ao amin’ny variable iray ny programa, ary mitahiry isa ao amin’ny variable hafa.
+
+Ny algorithm dia andiana dingana voalamina ampiasaina hamahana olana iray. Tsy voatery ho programme ny algorithm, satria azo soratana amin’ny teny tsotra ihany koa izy. Ohatra, ny dingana fanadiovana lisitra iray, fitadiavana sanda lehibe indrindra, na fanasokajiana angona dia azo faritana amin’ny algorithm.
+
+Ny database dia rafitra ampiasaina hitahirizana sy hitantanana angona. MySQL, PostgreSQL ary SQLite dia ohatra amin’ny rafitra fitantanana database. Ao amin’ny database relationnelle, matetika ny angona dia voalamina ao anaty tables misy lignes sy colonnes. Ny clé primaire dia azo ampiasaina hamantarana tsy manam-paharoa ny enregistrement iray.
+
+Ny réseau informatique dia mampifandray fitaovana roa na maromaro mba hahafahan’izy ireo mifampizara angona sy loharano. Ny adiresy IP dia ampiasaina hamantarana fitaovana iray ao anatin’ny réseau. Ohatra, amin’ny réseau IPv4 iray dia mety hanana adiresy toy ny 192.168.1.10 ny solosaina iray.
+
+Ny router dia fitaovana mampifandray réseau samihafa ary mandefa packets mankany amin’ny toerana tokony halehany. Ny switch kosa dia ampiasaina indrindra hampifandraisana fitaovana maro ao anatin’ny réseau local iray. Na dia samy fitaovana réseau aza izy ireo dia tsy mitovy ny andraikiny.
+
+Ny HTTP dia protocole ampiasaina amin’ny fifandraisana eo amin’ny client sy serveur amin’ny Web. Rehefa mitsidika tranonkala iray ny mpampiasa dia mandefa request any amin’ny serveur ny navigateur. Mamaly amin’ny response ny serveur. HTTPS dia dikan’ny HTTP mampiasa chiffrement amin’ny alalan’ny TLS mba hiarovana ny fifandraisana.
+
+Ny intelligence artificielle dia sehatra mikendry ny hamorona rafitra afaka manao asa izay matetika mitaky fahaiza-manao mifandray amin’ny faharanitan-tsaina. Anisan’izany ny fahafahana mamantatra sary, mahazo teny, manao classification na mamorona votoaty.
+
+Ny machine learning dia sampana iray ao anatin’ny intelligence artificielle. Amin’ny machine learning dia ampianarina amin’ny alalan’ny angona ny modèle iray mba hahafahany manao prediction na classification. Ohatra, azo ampianarina amin’ny sary misy labels ny modèle iray mba hahafahany manavaka karazana biby samihafa.
+
+Ny deep learning dia mampiasa neural networks misy layers maro. Ireo réseaux neuronaux lalina ireo dia afaka mianatra representation sarotra avy amin’ny angona. Ampiasaina amin’ny sehatra toy ny vision par ordinateur, traitement du langage naturel ary génération d’images ny deep learning.
+
+Ny RAG, na Retrieval-Augmented Generation, dia teknika mampifandray retrieval sy génération. Voalohany dia mitady documents na chunks mifandraika amin’ny fanontanian’ny mpampiasa ny système. Avy eo dia ampidirina ao amin’ny contexte omen’ny modèle de langage ireo informations hita. Ny modèle dia mampiasa izany contexte izany mba hamoronana valiny.
+
+Ao amin’ny RAG, ny embedding dia representation numérique an’ny texte. Ny texte iray dia avadika ho vecteur ao amin’ny espace numérique. Rehefa manana fanontaniana sy documents ny système dia afaka mampitaha ny vecteurs mba hitadiavana ireo documents manana hevitra akaiky.
+
+Ny chunking dia dingana fizarana document lava ho ampahany kely kokoa. Raha lehibe loatra ny chunk dia mety hisy vaovao tsy ilaina be ao amin’ny contexte. Raha kely loatra kosa izy dia mety ho very ny contexte ilaina hahazoana ny hevitr’ilay lahatsoratra. Noho izany dia singa manan-danja amin’ny fanamboarana RAG ny fisafidianana ny haben’ny chunk.
+
+Ny vector database dia database natao hitahirizana sy hitadiavana vecteurs. Rehefa manao recherche sémantique ny RAG dia afaka mitady ireo vecteurs akaiky indrindra amin’ny embedding an’ilay fanontaniana. Ny valiny azo dia ampiasaina ho contexte ho an’ny modèle de langage.
+
+Ny kalitaon’ny RAG dia tsy miankina amin’ny modèle de langage ihany. Zava-dehibe ihany koa ny kalitaon’ny documents, ny fomba nanaovana chunking, ny modèle embedding, ny stratégie de retrieval ary ny fomba fananganana prompt. Raha tsy voaray ao amin’ny contexte ny information ilaina dia mety tsy hahavaly tsara ny fanontaniana ny modèle na dia mahery aza izy.
